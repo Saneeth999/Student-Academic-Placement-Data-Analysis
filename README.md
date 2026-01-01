@@ -53,6 +53,28 @@ Dashboard Interaction<a href="https://github.com/Saneeth999/Student-Academic-Pla
 
 
 
+## Project Insights
+
+-> Final-year students show higher placement rates when CGPA ≥ 7
+
+-> Certain subjects consistently appear as high-failure subjects across years
+
+-> Attendance has a direct impact on pass percentage
+
+-> Majority of placements occur only in the 4th year
+
+-> Specific branches show stronger academic and placement performance
+
+-> Student distribution varies significantly by location
+
+
+
+## Final Conclusion
+
+This project provides a comprehensive academic and placement performance overview through an interactive Excel dashboard. It enables management to identify weak academic areas, track final-year placements, and make data-driven decisions to improve student outcomes. The insights derived can help institutions enhance academic support programs and strengthen placement strategies.
+
+
+
 
 
 
