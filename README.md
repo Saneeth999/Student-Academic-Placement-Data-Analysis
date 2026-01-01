@@ -1,2 +1,4 @@
 # Student-Academic-Placement-Data-Analysis
-Designed an interactive Excel dashboard to analyze academic performance and placement outcomes of 1000+ students. Implemented year-wise results, subject-wise failure analysis, and final-year placement eligibility using advanced Excel formulas, Pivot Tables, Charts, and slicers for data-driven insights.
+
+## Project Objective
+The objective of this project is to analyze student academic performance and placement outcomes using institutional data. This analysis helps college management and academic coordinators understand pass/fail trends, identify difficult subjects, monitor final-year placements, and improve academic and placement strategies.
